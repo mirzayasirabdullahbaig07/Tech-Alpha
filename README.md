@@ -1,32 +1,61 @@
-# Mustqbil — Landing Page
+# Tech Alpha — AI Startup Landing Page
 
-A landing page built with [TanStack Start](https://tanstack.com/start) (React 19), Vite, Tailwind CSS v4, and Radix UI.
+A refined, premium landing page for Tech Alpha, a modern AI startup brand built to showcase services, projects, portfolio work, and founder storytelling in a classic and elegant way.
 
-## Requirements
+This project is designed for founders and AI-focused businesses who want a strong first impression online — combining polished visuals, bold messaging, and a clear conversion path.
 
-- **Node.js** `>= 20` (LTS recommended). Check your version with `node -v`.
-  Download it from [nodejs.org](https://nodejs.org/).
-- A package manager — **pnpm** (recommended) or **npm** (bundled with Node).
-  Install pnpm once with `npm install -g pnpm`.
+## Overview
 
-## Get the code
+Tech Alpha presents a sophisticated digital experience centered around:
 
-Clone with Git:
+- AI strategy and product thinking
+- Founder-led brand storytelling
+- Premium service positioning
+- Projects and portfolio highlights
+- Strong contact and conversion CTAs
 
-```bash
-git clone <repository-url>
-cd Mustqbil-round2-landing
-```
+## Key Features
 
-Or **download** the project as a ZIP from the repository page (the green **Code → Download ZIP** button), then extract it and open the extracted folder.
+- Elegant black-and-gold visual design
+- Hero section with strong startup positioning
+- Dedicated sections for:
+  - About the founder
+  - Services
+  - Portfolio
+  - Projects
+  - FAQ
+  - Contact
+- Responsive layout for desktop and mobile
+- Social and contact links with icons
+- Built with modern React and Tailwind tooling
 
-## Install dependencies
+## Tech Stack
 
-Using pnpm (recommended):
+- [TanStack Start](https://tanstack.com/start)
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Radix UI](https://www.radix-ui.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Lucide Icons](https://lucide.dev/)
 
-```bash
-pnpm install
-```
+## Project Goals
+
+This website is built to help Tech Alpha:
+
+- establish a premium AI brand presence
+- communicate the founder’s vision clearly
+- present services and projects in a compelling way
+- make it easy for clients to get in touch
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js 20 or newer
+- npm or pnpm
+
+### Install dependencies
 
 Using npm:
 
@@ -34,38 +63,61 @@ Using npm:
 npm install
 ```
 
-## Run in development
-
-Starts the Vite dev server with hot reload.
+Using pnpm:
 
 ```bash
-pnpm dev
-# or
+pnpm install
+```
+
+### Run locally
+
+```bash
 npm run dev
 ```
 
-Then open the URL printed in the terminal (usually http://localhost:3000).
-
-## Build for production
+Or with pnpm:
 
 ```bash
-pnpm build
-# or
+pnpm dev
+```
+
+Then open the local URL shown in the terminal.
+
+### Build for production
+
+```bash
 npm run build
 ```
 
-## Preview the production build
+Or with pnpm:
 
 ```bash
-pnpm preview
-# or
+pnpm build
+```
+
+### Preview the production build
+
+```bash
 npm run preview
 ```
 
-## Other scripts
+## Project Structure
 
-| Script            | Description                          |
-| ----------------- | ------------------------------------ |
-| `pnpm lint`       | Run ESLint across the project        |
-| `pnpm format`     | Format files with Prettier           |
-| `pnpm build:dev`  | Build using the development mode     |
+```text
+src/
+  components/     UI components and reusable blocks
+  routes/         Page routes and landing page content
+  styles.css      Global theming and visual styling
+```
+
+## Contact
+
+For inquiries, collaborations, or project discussions:
+
+- Email: yasirabdullah4549@gmail.com
+- Brand: Tech Alpha
+- Founder: Mirza Yasir Abdullah Baig
+
+## License
+
+This project is for personal and brand presentation purposes.
