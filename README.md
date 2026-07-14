@@ -4,6 +4,11 @@ A refined, premium landing page for Tech Alpha, a modern AI startup brand built 
 
 This project is designed for founders and AI-focused businesses who want a strong first impression online — combining polished visuals, bold messaging, and a clear conversion path.
 
+## DEMO Link
+
+[https://techalpha07.netlify.app/
+](https://techalpha07.netlify.app/)
+
 https://github.com/user-attachments/assets/69942d82-19fc-47cb-84d6-f61509c67f1f
 
 ## Overview
@@ -117,8 +122,8 @@ src/
 For inquiries, collaborations, or project discussions:
 
 - Email: yasirabdullah4549@gmail.com
-- Brand: Tech Alpha
-- Founder: Mirza Yasir Abdullah Baig
+- Brand: [Tech Alpha](https://techalpha07.netlify.app/)
+- Founder: [Mirza Yasir Abdullah Baig](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)
 
 ## License
 
