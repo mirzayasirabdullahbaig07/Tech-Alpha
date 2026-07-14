@@ -437,13 +437,13 @@ function Index() {
               <a href="mailto:yasirabdullah4549@gmail.com" className="flex items-center gap-2 font-medium text-white transition hover:text-amber-300">
                 <Mail className="h-4 w-4" /> yasirabdullah4549@gmail.com
               </a>
-              <a href="https://linkedin.com/in/hamna-munir-6891a72a0" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 font-medium text-white transition hover:text-amber-300">
+              <a href="https://linkedin.com/in/mirza-yasir-abdullah-baig" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 font-medium text-white transition hover:text-amber-300">
                 <Linkedin className="h-4 w-4" /> LinkedIn
               </a>
-              <a href="https://github.com/Hamna-Munir" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 font-medium text-white transition hover:text-amber-300">
+              <a href="https://github.com/mirzayasirabdullahbaig07" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 font-medium text-white transition hover:text-amber-300">
                 <Github className="h-4 w-4" /> GitHub
               </a>
-              <a href="https://www.kaggle.com/hamnamunir" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 font-medium text-white transition hover:text-amber-300">
+              <a href="https://www.kaggle.com/mirzayasirabdullah07" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 font-medium text-white transition hover:text-amber-300">
                 <Sparkles className="h-4 w-4" /> Kaggle
               </a>
             </div>
@@ -472,7 +472,7 @@ function Index() {
             </nav>
             <div className="text-center text-sm text-stone-400">
               <p>© {new Date().getFullYear()} Tech Alpha.</p>
-              <a href="https://hamna-munir.lovable.app/" target="_blank" rel="noopener noreferrer" className="mt-2 inline-block font-medium text-white transition hover:text-amber-300">
+              <a href="https://yasirinsights.com/" target="_blank" rel="noopener noreferrer" className="mt-2 inline-block font-medium text-white transition hover:text-amber-300">
                 Built for modern AI ventures
               </a>
             </div>
