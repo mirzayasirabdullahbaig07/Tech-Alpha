@@ -87,17 +87,17 @@ const projectItems = [
   {
     title: "AI Landing Experience",
     description: "A refined starter experience for ambitious startups that need a strong first impression.",
-    link: "https://hamna-munir.lovable.app/",
+    link: "https://yasirinsights.com/",
   },
   {
     title: "Automation Toolkit",
     description: "A modular system for founders who need operations support without unnecessary complexity.",
-    link: "https://github.com/Hamna-Munir",
+    link: "https://github.com/mirzayasirabdullahbaig07",
   },
   {
     title: "Insight & Analytics Lab",
     description: "A practical research space for experiments, exploration, and product discovery.",
-    link: "https://www.kaggle.com/hamnamunir",
+    link: "https://www.kaggle.com/mirzayasirabdullah07",
   },
 ];
 
@@ -149,7 +149,7 @@ function Index() {
 
           <div className="hidden items-center gap-3 md:flex">
             <Button asChild variant="ghost" size="sm" className="border border-amber-400/20 text-amber-300 hover:bg-amber-400/10">
-              <a href="https://github.com/Hamna-Munir" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/mirzayasirabdullahbaig07" target="_blank" rel="noopener noreferrer">
                 GitHub
               </a>
             </Button>
@@ -172,7 +172,7 @@ function Index() {
                 </a>
               ))}
               <hr className="border-amber-400/20" />
-              <a href="https://github.com/Hamna-Munir" target="_blank" rel="noopener noreferrer" className="text-white">
+              <a href="https://github.com/mirzayasirabdullahbaig07" target="_blank" rel="noopener noreferrer" className="text-white">
                 GitHub
               </a>
               <a href="mailto:yasirabdullah4549@gmail.com" className="text-white">
@@ -205,7 +205,7 @@ function Index() {
                     </a>
                   </Button>
                   <Button asChild size="lg" variant="outline" className="gap-2 border-amber-400/30 text-amber-300 hover:bg-amber-400/10">
-                    <a href="https://topmate.io/" target="_blank" rel="noopener noreferrer">
+                    <a href="https://topmate.io/mirzayasirabdullahbaig/" target="_blank" rel="noopener noreferrer">
                       <Play className="h-4 w-4" /> Book 1:1 call
                     </a>
                   </Button>
