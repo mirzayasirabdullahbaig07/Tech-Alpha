@@ -1,4 +1,4 @@
-# Tech Alpha — AI Startup Landing Page
+# Tech Alpha | AI Startup Landing Page
 
 A refined, premium landing page for Tech Alpha, a modern AI startup brand built to showcase services, projects, portfolio work, and founder storytelling in a classic and elegant way.
 
