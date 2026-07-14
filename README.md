@@ -4,6 +4,8 @@ A refined, premium landing page for Tech Alpha, a modern AI startup brand built 
 
 This project is designed for founders and AI-focused businesses who want a strong first impression online — combining polished visuals, bold messaging, and a clear conversion path.
 
+https://github.com/user-attachments/assets/69942d82-19fc-47cb-84d6-f61509c67f1f
+
 ## Overview
 
 Tech Alpha presents a sophisticated digital experience centered around:
